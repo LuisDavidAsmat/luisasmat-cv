@@ -3,9 +3,30 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="responsive.css">
     <title>Document</title>
 </head>
 <body>
-    <h1>My cv</h1>
+
+    <div class="cv-container">
+        
+        <div class="cv-content-container flex-col-center" id="cv-content"></div>
+        
+        <div class="controls">
+            <select id="language-selector">
+                <option value="en">English</option>
+              <option value="es">Español</option>
+            </select>
+            
+            <div class="role-tabs">
+                <button class="role-btn active" data-role="developer">Developer</button>
+                <button class="role-btn" data-role="qa">QA Tester</button>
+            </div>
+        </div>
+    </div>
+    
+    <script src="./script.js"></script>
 </body>
 </html>
