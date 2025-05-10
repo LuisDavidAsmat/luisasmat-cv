@@ -1,0 +1,185 @@
+{
+  "en": {
+    "developer": 
+    {
+      "name": "Luis David Asmat Ortega",
+      "title": "Full Stack Developer",
+      "contact": {
+        "location": "Trujillo, PE",
+        "email": "david.exe2@gmail.com",
+        "phone": "+51 957 177 333",
+        "linkedin": "linkedin.com/in/luisasmatortega/",
+        "github": "github.com/luisasmatortega"
+      },
+      "sections": 
+      [
+        {
+          "title": "Summary",
+          "type": "paragraph",
+          "content": "Web application developer skilled in full-stack development, automation, and software testing, with a background in Business Administration. Focused on delivering efficient solutions for business services and technology consulting. Known for resilience, responsibility, and commitment to continuous learning. English proficiency: B2."
+        },
+        {
+          "title": "Education",
+          "type": "objects",
+          "content":
+          [
+            {
+              "title": "ONE (Oracle Next Education) Program - Backend (Java, Spring, and AI)",
+              "institution": "Oracle and Alura Latam",
+              "period": "02/2025 - Present",
+              "items": [
+                "Specialization in Java and Spring Boot development, with a focus on applying Artificial Intelligence in applications."
+              ]
+            },
+            {
+              "title": "Java Backend Development",
+              "period": "04/2024 - 07/2024",
+              "institution":
+              [
+                {
+                  "name": "Fondo Talento Digital",
+                  "ref": "https://eshoy.pe/fondotalentodigital/"
+                }
+                ,
+                {
+                  "name": "Eshoy",
+                  "ref": "https://eshoy.pe/"
+                },
+                {
+                  "name": "Skillnest",
+                  "ref": "https://www.skillnest.com/"
+                }
+              ],
+              "items": [
+                "Selected in the top 2% out of 2,000+ applicants.",
+                "Completed 400+ hours of training in backend development with Java, Spring Boot and databases."
+              ]  
+            },
+            {
+              "title": "IT Support Engineering Student",
+              "institution": "SENATI, Trujillo, PE",
+              "period": "04/2022 - 07/2023",
+              "items": []
+            },
+            {
+              "title": "Bachelor in Administration",
+              "institution": "National University of Trujillo, Trujillo, PE",
+              "period": "04/2015 - 12/2019",
+              "items": []
+            }
+          ]
+        },
+        {
+          "title": "Work Experience",
+          "type": "objects",
+          "content":
+          [
+            {
+              "title": "Programming Assistant - Internship",
+              "company": "Overall, Remote",
+              "period": "02/2025 - 03/2025",
+              "items": [
+                "Implemented robust business logic and developed scalable REST services using Spring Boot and Oracle Database.",
+                "Integrated secure authentication and authorization with JWT to protect APIs.",
+                "Deployed and configured applications on AWS using services like EC2 and RDS.",
+                "Technologies used: Java, Spring Boot, REST APIs, JWT, Oracle Database, AWS (EC2, RDS)."
+              ]
+            }
+          ]          
+        },
+        {
+          "title": "Projects",
+          "type": "objects",
+          "content":
+          [
+            {
+              "title": "Urbania - Real estate sales platform",
+              "company": "NoCountry",
+              "period": "02/2025 - 03/2025",
+              "items": [
+                "Front end role.",
+                "Developed an interactive WebApp for managing real estate transactions with a focus on user experience.",
+                "Technologies used: React, JS, Express, Cloudinary, MongoDB"
+              ]
+            },
+            {
+              "title": "MasCercaTuyo - Service Marketplace",
+              "company": "NoCountry",
+              "period": "01/2025 - 02/2025",
+              "items": [
+                "Full Stack role.",
+                "Created a WebApp connecting service providers with nearby customers using geolocation and maps.",
+                "Technologies used: React, Spring Boot, Java, MySQL."
+              ]
+            },
+            {
+              "title": "Reviews and Recommendations Platform (Spring Boot)",
+              "company": "Skillnest",
+              "period": "06/2024 - 07/2024",
+              "items": [
+                "Developed a backend application with Spring Boot for managing reviews and recommendations.",
+                "Implemented authentication and authorization with Spring Security and OAuth2 for social login.",
+                "Built dynamic user interfaces using JSP.",
+                "Collaborated in an agile Scrum team, participating in sprints and planning meetings.",
+                "Technologies used: Spring Boot, Spring Security, OAuth2, JSP, MySQL."
+              ]
+            }
+          ]          
+        },
+        {
+          "title": "Skills",
+          "type": "objects",
+          "content": {
+            "languages": "Java, JavaScript, TypeScript",
+            "frameworks": "Spring Boot, Spring Security, JSP, React, Angular",
+            "databases": "MySQL, PostgreSQL, MongoDB, Oracle",
+            "testing": "JUnit5, Mockito, Cypress",
+            "cloud & devops": "AWS, Docker",
+            "tools": "Git, GitHub, Trello, Postman",
+            "design": "Figma, Figjam"
+          }
+        },
+        {
+          "title": "Languages",
+          "type": "objects",
+          "content": {
+            "english": "B2 (Intermediate-Advanced) - El Cultural.",
+            "french": " B2 (Intermediate-Advanced) - Alianza Francesa de Trujillo."
+          }
+        }
+      ]
+    },
+
+
+    "qa": {
+      "name": "John Doe",
+      "title": "QA Tester",
+      "sections": [
+        {
+          "title": "Certifications",
+          "type": "list",
+          "items": [
+            "ISTQB Certified Tester",
+            "Selenium WebDriver"
+          ]
+        }
+      ]
+    }
+  },
+  "es": {
+    "developer": {
+      "name": "Juan Pérez",
+      "title": "Desarrollador Full Stack",
+      "sections": [
+        {
+          "title": "Experiencia",
+          "type": "list",
+          "items": [
+            "5+ años desarrollando aplicaciones web",
+            "Experto en React, Node.js y MongoDB"
+          ]
+        }
+      ]
+    }
+  }
+}
